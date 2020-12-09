@@ -1,8 +1,0 @@
-https://diri.isb.edu/en.html -O "/home/rishabh_/websites/ISB" -P none:8080 -%v none none
-File generated automatically on Tue, 01 Dec 2020 21:28:31, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
